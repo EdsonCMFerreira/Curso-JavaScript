@@ -2,7 +2,7 @@ Curso de JavaScript
 
 Conteúdo
 
-	1.1  Introdução a linguagem JavaScript
+		1.1  Introdução a linguagem JavaScript
         1.2  Exemplo meu primeiro código JS
         1.3  Operações aritméticas
         1.4  Média de valores
